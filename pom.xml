@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.assemblyai</groupId>
+    <artifactId>assemblyai-java</artifactId>
+    <version>ASSEMBLYAI_SDK_VERSION</version>
+</dependency>
